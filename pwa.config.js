@@ -30,5 +30,6 @@ export default {
     },
     twitterCard: 'summary_large_image',
     twitterCreator: 'NXTYOU',
+    'facebook-domain-verification': 'tf6lgv2s6vr6upmb9zw2ml3v7cdbli',
   },
 }

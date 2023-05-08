@@ -78,6 +78,10 @@ export default async () => {
           name: 'viewport',
           content: 'width=device-width, initial-scale=1',
         },
+       {
+          name: 'facebook-domain-verification',
+          content: 'tf6lgv2s6vr6upmb9zw2ml3v7cdbli'
+        }
       ],
       link: [
         {

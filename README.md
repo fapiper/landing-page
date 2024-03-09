@@ -1,8 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f85895cb-a168-42e5-8f17-1537dbd87fc9/deploy-status)](https://app.netlify.com/sites/nxt-you/deploys)
 
-# NXTYOU
-
-NXT YOU ist eine Exklusivagentur, die sich auf Markenaufbau, Content-Erstellung und digitales Marketing spezialisiert hat.
+# Landing Page
 
 > Company web presence created using [Nuxt](https://nuxtjs.org/)
 
